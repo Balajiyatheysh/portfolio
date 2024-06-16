@@ -1,0 +1,18 @@
+[
+  {
+    "role": "FD",
+    "organisation": "CognitiveClouds",
+    "startDate": "Oct, 2022",
+    "endDate": "Mar, 2023",
+    "experiences": ["Developed web pages, react native screens", "Reduced load times by 40%"],
+    "imageSrc": "history/cognitiveclouds.png"
+  },
+  {
+    "role": "ASE",
+    "organisation": "DXC Technology",
+    "startDate": "Jun, 2020",
+    "endDate": "Feb, 2022",
+    "experiences": ["Developed reusable Web Components", "Designed the dashboard"],
+    "imageSrc": "history/dxc.png"
+  }
+]
